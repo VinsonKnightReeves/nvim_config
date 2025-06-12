@@ -12,7 +12,7 @@ LuaJIT 2.1.1741730670
 Run "nvim -V1 -v" for more info
 ```
 
-## Structure
+# Structure
 
 lsp/
 ---
